@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2328921935">
+    <data-source source="LOCAL" name="Rails test_demo: development" uuid="d6ea8e0c-a1c3-465e-b34d-84035db582f6">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1:3306/demo_dev</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfe2dfc3dfd8dfcbdfd9dfcbdfdddfcbdff5dff3dfdfdfc3</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails test_demo: test" uuid="11f8a843-3c0f-4a35-9100-4b012f7148be">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1:3306/demo_test</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfe2dfc3dfd8dfcbdfd9dfcbdfdddfcbdff5dff3dfdfdfc3</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails test_demo: production" uuid="c6ba8a42-0dea-48ec-8807-e035066cb957">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1:3306/demo_prod</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfe2dfc3dfd8dfcbdfd9dfcbdfdddfcbdff5dff3dfdfdfc3</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
